@@ -15,7 +15,7 @@
 
 ##### Copy code
 ---
-##### git clone https://github.com/your-username/tic-tac-toe.git
+##### git clone https://github.com/Teenoder/tic-tac-toe.git
 ##### Alternatively, you can play the game on this GitHub Page```
 
 ## Features
